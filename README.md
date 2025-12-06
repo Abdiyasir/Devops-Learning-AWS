@@ -2,7 +2,7 @@
 
 ## Assignment 1 - VPC & Networking
 
-In this assignment I created a custom VPC with one public and one private subnet, set up the correct routing for internet access, and deploy EC2 instances across them.
+In this assignment I created a custom VPC with one public and one private subnet, setting up the correct routing for internet access and deploying EC2 instances across them.
 
 ## Step 1 - Create a VPC with public & private subnet
 
