@@ -17,7 +17,7 @@
 ## EC2 Setup
 - The ec2 instances are across two AZ's for increased availability.
 - The security group goes through the ALB security group.
-- ALB then balances internet traffic to the instances by providing two different websites everytime the page is refreshed.
+- ALB then balances internet traffic across the instances by providing two different websites everytime the page is refreshed.
 <img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/3d0296ad-d273-4bae-974f-923a75bbe8b9" />
 <img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/a05b1a7a-a305-426a-9cf7-077645c4773b" />
 
